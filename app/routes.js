@@ -94,10 +94,6 @@ module.exports = function(app) {
       });
     });
   
-  // REGISTER OUR ROUTES -------------------------------
-  // all of our routes will be prefixed with /api
-  //app.use('/api', router);
-  
   // ROUTES FOR FRONTEND
   // ----------------------------------------------------
   // Route to handle all angular requests

@@ -10,6 +10,11 @@ angular.module('appRoutes', []).config(['$routeProvider', '$locationProvider', f
     .when('/items', {
       templateUrl: 'views/item.html',
       controller: 'ItemController'
+    })
+    // New item page that will use the ItemController
+    .when('/new-item', {
+      templateUrl: 'views/new-item.html',
+      controller: 'ItemController'
     });
       
   $locationProvider.html5Mode(true);

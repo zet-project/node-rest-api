@@ -11,7 +11,7 @@ Example of simple REST API with Node.
 - Start the server: `node server.js`
 
 ## Testing the API ##
-Test API using [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) in Chrome.
+Test API using frontend `http://localhost:8080` or [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) in Chrome.
 
 ## API Routes ##
 
@@ -54,5 +54,7 @@ Test API using [Postman](https://chrome.google.com/webstore/detail/postman/fhbjg
 
 ## Tutorials and sources ##
 - [Building a RESTful API in Node and Express 4](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
-- [Express](http://expressjs.com/)
-- [Mongoose](http://mongoosejs.com/docs/index.html)
+- [Setting Up a MEAN Stack Single Page Application](https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application)
+- [AngularJS](https://docs.angularjs.org/guide)
+- [ExpressJS](http://expressjs.com/)
+- [MongooseJS](http://mongoosejs.com/docs/index.html)
