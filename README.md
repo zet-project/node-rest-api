@@ -11,7 +11,7 @@ Example of simple REST API with Node.
 - Start the server: `node server.js`
 
 ## Testing the API ##
-Test API using frontend `http://localhost:8080` or [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) in Chrome.
+Test API using frontend http://localhost:8080 or [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) in Chrome.
 
 ## API Routes ##
 
