@@ -55,6 +55,7 @@ Test API using frontend http://localhost:8080 or [Postman](https://chrome.google
 ## Tutorials and sources ##
 - [Building a RESTful API in Node and Express 4](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
 - [Setting Up a MEAN Stack Single Page Application](https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application)
+- [Creating a Single Page Todo App with Node and Angular](https://scotch.io/tutorials/creating-a-single-page-todo-app-with-node-and-angular)
 - [AngularJS](https://docs.angularjs.org/guide)
 - [ExpressJS](http://expressjs.com/)
 - [MongooseJS](http://mongoosejs.com/docs/index.html)

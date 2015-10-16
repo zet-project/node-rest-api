@@ -1,0 +1,13 @@
+<div class="jumbotron text-center">
+  <h2>Edit item</h2>
+  <form name="editItemForm" ng-submit="editItem(item._id);">
+    <div id="editItemFields">
+      <label for="itemId">ID:</label>
+      <input type="text" data-ng-disabled="true" ng-model="item._id" /><br />
+      <label for="itemName">Name:</label>
+      <input type="text" name="itemName" ng-model="item.name" ng-required="true" /><br />
+    </div>
+    <button ng-click="removeItem(item._id);" class="editItemButton">Remove</button>
+    <button type="submit" data-ng-disabled="editItemForm.$invalid" class="editItemButton">Save</button>
+  </form>
+</div>
