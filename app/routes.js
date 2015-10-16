@@ -101,8 +101,8 @@ module.exports = function(app) {
   // ROUTES FOR FRONTEND
   // ----------------------------------------------------
   // Route to handle all angular requests
-  /*app.get('*', function(req, res) {
+  app.get('*', function(req, res) {
     // load our public/index.html file
     res.sendfile('./public/views/index.html');
-  });*/
+  });
 };
